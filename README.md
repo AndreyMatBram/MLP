@@ -80,8 +80,8 @@ Car evaluation dataset with 6 categorical attributes and 4 classes (unacceptable
 - Significant class imbalance (unacc >900 of 1728 instances)
 
 **Network Architecture**:
-- Input layer: >20 neurons (after one-hot encoding)
-- Hidden layer: 6 neurons
+- Input layer: 6 neurons (after one-hot encoding)
+- Hidden layer: 4 neurons
 - Output layer: 4 neurons
 
 **Hyperparameters**:
